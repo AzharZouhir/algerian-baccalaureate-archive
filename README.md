@@ -15,7 +15,7 @@ An open-source archive of Algerian Baccalaureate (BAC) exam papers and their cor
 
 The goal of this project is to provide a clean, well-organized, and permanent collection of past BAC exam papers for all subjects and streams. This makes it easier for Algerian students to prepare for their exams and for educators to find resources.
 
-All files are sourced from [ency-education.com](https://www.ency-education.com/). This repository is an unofficial mirror created to ensure the longevity and accessibility of these valuable materials.
+All files are sourced from all sites across the internet. This repository is an unofficial mirror created to ensure the longevity and accessibility of these valuable materials.
 </details>
 
 <details>
@@ -23,7 +23,7 @@ All files are sourced from [ency-education.com](https://www.ency-education.com/)
 
 الهدف من هذا المشروع هو توفير مجموعة منظمة ودائمة لمواضيع وحلول شهادة البكالوريا الجزائرية لجميع المواد والشعب. يهدف هذا الأرشيف إلى تسهيل تحضير الطلاب للامتحانات وتوفير مصدر موثوق للأساتذة والمجتمع التعليمي.
 
-جميع الملفات مأخوذة من موقع [ency-education.com](https://www.ency-education.com/). هذا المستودع هو مرآة غير رسمية تم إنشاؤها لضمان استمرارية الوصول إلى هذه الموارد القيمة.
+جميع الملفات مأخوذة من مختلف المواقع على الانترنت. هذا المستودع هو مرآة غير رسمية تم إنشاؤها لضمان استمرارية الوصول إلى هذه الموارد القيمة.
 </details>
 
 ### 🗂️ Folder & Naming Structure | هيكل المجلدات والملفات
