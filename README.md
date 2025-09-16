@@ -32,9 +32,9 @@ The repository is organized to be as clear and user-friendly as possible. The st
 
 `Subject / Stream / YEAR-SUBJECT-STREAM-TYPE.pdf`
 
--   **Subject:** The academic subject (e.g., `history-geography`).
--   **Stream:** The student's specialty (e.g., `scientific-stream`).
--   **Filename:** Contains all information (Year, Subject, Stream, and Type) to make every file unique and self-describing, preventing download overwrites.
+-   **Subject:** The academic subject (e.g., `history-geography`, `arabic-literature`).
+-   **Stream:** The student's specialty (e.g., `scientific-stream`, `literature-and-philosophy`).
+-   **Filename:** Contains all information (Year, Subject, Stream, and Type) to make every file unique and self-describing, preventing download overwrites. For example: `2023-arabic-literature-scientific-stream-exam.pdf`.
 
 ### ✅ Available Subjects (To-Do List) | قائمة المواد (مهام مستقبلية)
 
@@ -47,20 +47,20 @@ This is the planned list of subjects for the archive. Contributions to complete 
 -   [ ] Natural Sciences (`natural-sciences`)
 -   [ ] Philosophy (`philosophy`)
 -   [ ] Islamic Sciences (`islamic-sciences`)
--   [ ] Arabic Language (`arabic-language`)
+
+#### Languages | اللغات
+-   [x] Arabic Literature (`arabic-literature`)
 -   [ ] French Language (`french-language`)
 -   [ ] English Language (`english-language`)
 -   [ ] Amazigh Language (`amazigh-language`)
+-   [ ] Spanish Language (`spanish-language`)
+-   [ ] German Language (`german-language`)
+-   [ ] Italian Language (`italian-language`)
 
 #### Economics & Management Stream | شعبة تسيير واقتصاد
 -   [ ] Accounting & Financial Management (`accounting-financial-management`)
 -   [ ] Economics & Management (`economics-management`)
 -   [ ] Law (`law`)
-
-#### Foreign Languages Stream | شعبة لغات أجنبية
--   [ ] Spanish Language (`spanish-language`)
--   [ ] German Language (`german-language`)
--   [ ] Italian Language (`italian-language`)
 
 #### Technical Stream (Math-Technique) | شعبة تقني رياضي
 -   [ ] Civil Engineering (`civil-engineering`)
