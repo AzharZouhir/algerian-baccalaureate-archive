@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Algerian Baccalaureate Archive Banner" width="1024"/>
+  <img src="banner.svg" alt="Algerian Baccalaureate Archive Banner" width="1024" style="border-radius:16px;"/>
 </p>
 
 # Algerian Baccalaureate Exam Archive | أرشيف شهادة البكالوريا الجزائرية
